@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Aula de PDO</title>
+    <title>Aula PDO</title>
 </head>
 
 <body>
